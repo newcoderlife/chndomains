@@ -54,5 +54,6 @@ include:domains/gfw
 include:domains/qbittorrent
 include:domains/hostloc
 include:domains/nodeseek
+include:domains/v2ex
 
 include:domains/region
