@@ -53,6 +53,7 @@ include:domains/mikrotik
 include:domains/3d-printing
 include:domains/gfw
 include:domains/qbittorrent
+include:domains/1point3acres
 include:domains/hostloc
 include:domains/nodeseek
 include:domains/v2ex
